@@ -137,7 +137,7 @@
           <mxGeometry x="1089.86" y="376" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="740" width="1370" height="550" as="geometry" />
+          <mxGeometry x="110" y="740" width="1170" height="550" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="iEDo4Cskuz566fupXp4_-41" target="iEDo4Cskuz566fupXp4_-42">
           <mxGeometry relative="1" as="geometry" />
@@ -236,19 +236,19 @@
           <mxGeometry x="198.43" y="1139" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-89" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1076" width="280" height="154" as="geometry" />
+          <mxGeometry x="930" y="1076" width="280" height="154" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-90" value="&lt;h2&gt;Réseau Impression&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960.0000000000002" y="1076" width="240" height="30" as="geometry" />
+          <mxGeometry x="940.0000000000002" y="1076" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-91" value="Serveur d&#39;impression" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1006.5" y="1133" width="41" height="50" as="geometry" />
+          <mxGeometry x="986.5" y="1133" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-92" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="595" y="1078" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-93" value="Imprimante" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1122" width="80" height="80" as="geometry" />
+          <mxGeometry x="1080" y="1122" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-94" value="Client" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="647" y="1144" width="53.64" height="40" as="geometry" />
