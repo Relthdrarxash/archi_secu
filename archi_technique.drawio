@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="sl0Z7fPfuQKRQQ2DEkUn">
-    <mxGraphModel dx="2620" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,16 +137,16 @@
           <mxGeometry x="1089.86" y="376" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="740" width="1480" height="710" as="geometry" />
+          <mxGeometry x="110" y="740" width="1370" height="550" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="iEDo4Cskuz566fupXp4_-41" target="iEDo4Cskuz566fupXp4_-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-41" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="1010" width="95.24" height="60" as="geometry" />
+          <mxGeometry x="-95" y="1040" width="95.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-42" value="Firewall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1010" width="60" height="60" as="geometry" />
+          <mxGeometry x="910" y="1010" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="780" width="500" height="220" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="201" y="830" width="40.43" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1105.87" y="780" width="401" height="220" as="geometry" />
+          <mxGeometry x="1105.87" y="780" width="324.13" height="210" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-53" value="Serveur de fichier" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="459" y="830" width="41" height="50" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry x="970" y="840" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1110" width="500" height="260" as="geometry" />
+          <mxGeometry x="150" y="1110" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-70" value="&lt;h2&gt;DMZ&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="1139" width="60" height="30" as="geometry" />
@@ -228,6 +228,33 @@
         </mxCell>
         <mxCell id="iEDo4Cskuz566fupXp4_-85" value="Reverse proxy" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.proxy;" vertex="1" parent="1">
           <mxGeometry x="198.43" y="1169" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-89" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1110" width="280" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-90" value="&lt;h2&gt;Réseau Impression&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160.0000000000002" y="1110" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-91" value="Serveur d&#39;impression" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1206.5" y="1167" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-92" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1110" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-93" value="Imprimante" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1156" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-94" value="Client" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="652" y="1176" width="53.64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-95" value="&lt;h3&gt;LAN PC&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="813.6800000000001" y="1119" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-97" value="Client" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="830.0000000000001" y="1160.02" width="69" height="75.98" as="geometry" />
+        </mxCell>
+        <mxCell id="iEDo4Cskuz566fupXp4_-102" value="DSI" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" vertex="1" parent="1">
+          <mxGeometry x="1269.6000000000001" y="825.3499999999999" width="61.8" height="61.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
