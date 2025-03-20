@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
-    <mxGraphModel dx="3218" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,10 +73,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q2HG8QPu7T1CwL4W8OTE-3" value="Payment" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.payment;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="27" width="80" height="40" as="geometry" />
+          <mxGeometry x="-250" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q2HG8QPu7T1CwL4W8OTE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="q2HG8QPu7T1CwL4W8OTE-3" target="v_zZV-oKxVdYTd-pvLKk-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q2HG8QPu7T1CwL4W8OTE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="q2HG8QPu7T1CwL4W8OTE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="67" as="sourcePoint" />
+            <mxPoint x="-80" y="146.37999999999988" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="60" />
+              <mxPoint x="-110" y="90" />
+              <mxPoint x="-80" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q2HG8QPu7T1CwL4W8OTE-6" value="Dashboard performances" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;" vertex="1" parent="1">
           <mxGeometry x="-209" y="299.99999999999994" width="68" height="63.2" as="geometry" />
