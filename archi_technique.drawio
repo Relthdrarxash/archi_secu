@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="sl0Z7fPfuQKRQQ2DEkUn">
-    <mxGraphModel dx="3088" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,7 +484,7 @@
           <mxGeometry x="1501.37" y="2242" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-611.8499999999999" y="2920" width="360" height="230" as="geometry" />
+          <mxGeometry x="-611.85" y="2890" width="360" height="260" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-2" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="-491.33" y="3290" width="95.24" height="60" as="geometry" />
@@ -496,7 +496,7 @@
           <mxGeometry x="-370" y="2950" width="114.39" height="190" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="2980" width="96.79" height="90" as="geometry" />
+          <mxGeometry x="-481.78" y="2960" width="101.78" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-236.32999999999998" y="3110" width="544.48" height="750" as="geometry" />
@@ -528,7 +528,7 @@
           <mxGeometry x="-810.9000000000001" y="3150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-18" value="&lt;h2&gt;Cloud Provider&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-514.2099999999998" y="2930" width="141" height="30" as="geometry" />
+          <mxGeometry x="-506.5699999999998" y="2908" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-164.22000000000008" y="3140" width="140" height="130" as="geometry" />
@@ -639,7 +639,7 @@
           <mxGeometry x="40.48999999999984" y="3510" width="65.6" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-62" value="&lt;span&gt;Backup Servers&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="3011" width="39.36" height="48" as="geometry" />
+          <mxGeometry x="-448.75" y="2996.8" width="39.36" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-63" value="Imprimante" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="158.14999999999992" y="3510" width="80" height="80" as="geometry" />
@@ -653,13 +653,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-601.85" y="2940" width="101.85" height="200" as="geometry" />
+          <mxGeometry x="-601.85" y="2920" width="101.85" height="220" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-65" value="&lt;div&gt;Webapp&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-541.8499999999999" y="2990" width="40" height="50" as="geometry" />
+          <mxGeometry x="-541.8499999999999" y="2974" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-66" value="Mail Service" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-570.92" y="3068" width="40" height="50" as="geometry" />
+          <mxGeometry x="-570.92" y="3060" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-67" value="Service de stockage" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-325.54" y="3060" width="41" height="50" as="geometry" />
@@ -671,7 +671,7 @@
           <mxGeometry x="-387.39" y="2960" width="105.54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-71" value="&lt;h3&gt;LAN Frontal&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-602.77" y="2950" width="81.85" height="30" as="geometry" />
+          <mxGeometry x="-591.85" y="2930" width="81.85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-72" value="&lt;span&gt;Bastion&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="-798.3299999999999" y="3180" width="28.000000000000004" height="50" as="geometry" />
@@ -692,10 +692,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-79" value="&lt;div&gt;WAF&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.waf_web_application_firewall;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-601.85" y="2996.8" width="49.199999999999996" height="43.199999999999996" as="geometry" />
+          <mxGeometry x="-594.85" y="2975" width="49.199999999999996" height="43.199999999999996" as="geometry" />
         </mxCell>
         <mxCell id="s82xDGVKWr6G9yO1Jl6a-80" value="&lt;h3&gt;LAN Backup&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-471.11" y="2980" width="105.54" height="30" as="geometry" />
+          <mxGeometry x="-483.11" y="2962" width="105.54" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
