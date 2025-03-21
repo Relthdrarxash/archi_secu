@@ -272,7 +272,33 @@
           <mxGeometry x="749" y="890" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCa00P5Gcy0VoJe-Ny28-5" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="781.88" y="1680" width="95.24" height="60" as="geometry" />
+          <mxGeometry x="735" y="1970" width="95.24" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85.63999999999999" y="1830" width="486" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1830" width="486" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="FCa00P5Gcy0VoJe-Ny28-9" target="FCa00P5Gcy0VoJe-Ny28-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;shape=link;" edge="1" parent="1" source="FCa00P5Gcy0VoJe-Ny28-9" target="FCa00P5Gcy0VoJe-Ny28-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="2015" />
+              <mxPoint x="670" y="2015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-9" value="Firewall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1970" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="FCa00P5Gcy0VoJe-Ny28-10" target="FCa00P5Gcy0VoJe-Ny28-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCa00P5Gcy0VoJe-Ny28-10" value="Firewall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1970" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
